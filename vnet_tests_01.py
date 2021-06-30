@@ -2,10 +2,10 @@
 
 from typing import List
 
-def total(xs: List[float]) -> float:
-    """Total returns the sum of xs."""
+def total(values: List[float]) -> float:
+    """Total returns the sum of values."""
     result: float = 0.0
-    # For each x float in xs, add it to result
-    for x in xs:
-        result += x
+    # For each x float in values, add it to result
+    for item in values:
+        result += item
     return result
