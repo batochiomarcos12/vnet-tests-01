@@ -1,0 +1,17 @@
+# -----------------------------------------------------------------------------
+# Vida Nova Escola de Technologia
+#
+# Python backend development training - Class one
+# -----------------------------------------------------------------------------
+# Software testing - Lesson one
+# -----------------------------------------------------------------------------
+
+Requirements for the first example.
+
+Write a function that receives a list of float numbers and returns the sum of all its items.
+
+Should be observed that:
+
+1. an empty list returns zero (0.0);
+2. a list of only one item returns that one;
+3. a list of several items returns the sum of all numbers;
